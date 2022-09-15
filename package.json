@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geunsoo96/build-remote/issues"
   },
-  "homepage": "https://github.com/geunsoo96/build-remote#readme"
+  "homepage": "https://github.com/geunsoo96/build-remote#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
